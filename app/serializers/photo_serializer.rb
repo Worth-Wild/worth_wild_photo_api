@@ -1,4 +1,4 @@
 class PhotoSerializer
   include JSONAPI::Serializer
-  attributes :photo_url, :photographer, :photographer_url
+  attributes :photo_url, :host_url
 end
