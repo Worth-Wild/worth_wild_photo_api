@@ -6,10 +6,9 @@ RSpec.describe do
       search_term = "King Penguin"
       data = PhotoService.get_animal_photo(search_term)
 
-      expect(data).to have_key(:photos)
-      expect(data[:photos][0]).to have_key(:url)
-      expect(data[:photos][0]).to have_key(:photographer)
-      expect(data[:photos][0]).to have_key(:photographer_url)
+      expect(data).to have_key(:value)
+      expect(data[:value][0]).to have_key(:thumbnailUrl)
+      expect(data[:value][0]).to have_key(:hostPageUrl)
     end
   end
 end

@@ -9,8 +9,7 @@ RSpec.describe PhotoFacade do
       expect(data).to be_a Photo
       expect(data.id).to be nil
       expect(data.photo_url).to be_a String
-      expect(data.photographer).to be_a String
-      expect(data.photographer_url).to be_a String
+      expect(data.host_url).to be_a String
     end
   end
 end

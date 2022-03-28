@@ -8,7 +8,7 @@ RSpec.describe 'Photo API Endpoint' do
       result = JSON.parse(response.body, symbolize_names: true)
 
       expect(response).to be_successful
-
+      
       expect(result).to have_key(:data)
       expect(result).to be_a Hash
 
@@ -25,11 +25,8 @@ RSpec.describe 'Photo API Endpoint' do
       expect(result[:data][:attributes]).to have_key(:photo_url)
       expect(result[:data][:attributes][:photo_url]).to be_a String
 
-      expect(result[:data][:attributes]).to have_key(:photographer)
-      expect(result[:data][:attributes][:photographer]).to be_a String
-
-      expect(result[:data][:attributes]).to have_key(:photographer_url)
-      expect(result[:data][:attributes][:photographer_url]).to be_a String
+      expect(result[:data][:attributes]).to have_key(:host_url)
+      expect(result[:data][:attributes][:host_url]).to be_a String
     end
   end
 end
