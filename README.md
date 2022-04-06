@@ -3,7 +3,7 @@
 # <div align="center">![featuring (1)](https://user-images.githubusercontent.com/87088092/162068012-1f7c5c71-915e-40f6-a39f-71cafac3c702.png)
 </div>
 
-### <div align="center">This repo is a microservice used by the [Worth Wild BE repo](https://github.com/Worth-Wild/worth_wild_be) and consumes the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api) as an external API.</div>
+### <div align="center">This repo is a microservice used by the [Worth Wild BE repo](https://github.com/Worth-Wild/worth_wild_be) and consumes the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api).</div>
 
 ## Local Setup
 
