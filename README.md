@@ -12,10 +12,10 @@
 1. Fork and Clone the repo
 2. Install gem packages: `bundle install`
 3. Set up the database: `rails db:{drop,create,migrate,seed}`
-4. Get a photo image API key from [Bing](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api)
-5. Run `figaro install` then enter your photo image API key into your `application.yml` file 
+4. Get an image search photo API key from [Bing](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api)
+5. Run `figaro install` then enter your photo API key into your `application.yml` file 
 ```
-photo_image_key: <enter your key here>
+photo_api_key: <enter your key here>
 ```
 
 ### Run the test suite 
