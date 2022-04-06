@@ -20,7 +20,7 @@ photo_image_key: <enter your key here>
 
 ### Run the test suite 
 
-1.  Follow steps in the local setup
+1.  Follow steps in the local setup (above)
 2.  In your terminal, run `bundle exec rspec` to test for global coverage
 
 
