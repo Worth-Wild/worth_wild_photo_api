@@ -32,9 +32,9 @@ photo_image_key: <enter your key here>
 *Resource links:*
 [rspec-rails](https://github.com/rspec/rspec-rails) | [pry](https://github.com/pry/pry) | [simplecov](https://github.com/simplecov-ruby/simplecov) | [figaro](https://medium.com/@MinimalGhost/the-figaro-gem-an-easier-way-to-securely-configure-rails-applications-c6f963b7e993) | [faraday](https://github.com/lostisland/faraday)
 
-### References
+### Project details
 
-Links to reference: [Assignment](https://mod4.turing.edu/projects/capstone/), [Worth Wild BE Repo](https://github.com/Worth-Wild/worth_wild_be)
+Link to Turing Project Assignment: [Capstone Project](https://mod4.turing.edu/projects/capstone/)
 
 
 This README would normally document whatever steps are necessary to get the
