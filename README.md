@@ -11,12 +11,18 @@
 
 1. Fork and Clone the repo
 2. Install gem packages: `bundle install`
-3. Set up the database: `rails db:{drop,create}`
+3. Set up the database: `rails db:{drop,create,migrate,seed}`
 4. Get a photo image API key from [Bing](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api)
 5. Run `figaro install` then enter your photo image API key into your `application.yml` file 
 ```
 photo_image_key: <enter your key here>
 ```
+
+### Run the test suite 
+
+1.  Follow steps in the local setup
+2.  In your terminal, run `bundle exec rspec` to test for global coverage
+
 
 ### Gems:
 
@@ -35,6 +41,8 @@ photo_image_key: <enter your key here>
 ### Project details
 
 Link to Turing Project Assignment: [Capstone Project](https://mod4.turing.edu/projects/capstone/)
+
+<hr>
 
 
 This README would normally document whatever steps are necessary to get the
