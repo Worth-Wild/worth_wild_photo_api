@@ -5,6 +5,8 @@
 
 ### <div align="center">This repo is a microservice used by the [Worth Wild BE repo](https://github.com/Worth-Wild/worth_wild_be) and consumes the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api).</div>
 
+<hr>
+
 ## Local Setup
 
 1. Fork and Clone the repo
