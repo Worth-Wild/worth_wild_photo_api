@@ -4,7 +4,7 @@
 
 # Photo Microservice
 
-This repo is a microservice used by the [Worth Wild BE repo]() and consumes the [Bing Image Search API]() as an external API.
+This repo is a microservice used by the [Worth Wild BE repo](https://github.com/Worth-Wild/worth_wild_be) and consumes the [Bing Image Search API](https://www.microsoft.com/en-us/bing/apis/bing-image-search-api) as an external API.
 
 ## Local Setup
 
