@@ -44,36 +44,13 @@ Link to Turing Project Assignment: [Capstone Project](https://mod4.turing.edu/pr
 
 <hr>
 
+## <div align="center">API endpoints</div>
+
 <details close="close">
   <summary>Photo API endpoint</summary>
   
   ```
-  example api
+  example api endpoint
   ```
   
 </details>
-
-
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
