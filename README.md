@@ -50,7 +50,20 @@ Link to Turing Project Assignment: [Capstone Project](https://mod4.turing.edu/pr
   <summary>Photo API endpoint</summary>
   
   ```
-  example url
+ https://young-headland-02260.herokuapp.com/api/v1/photo?search=American black bear
+  ```
+  
+  ```
+  {
+    "data": {
+        "id": null,
+        "type": "photo",
+        "attributes": {
+            "photo_url": "https://tse1.mm.bing.net/th?id=OIP.mXmkayEuglEMZ1K5tOOCkAHaE8&pid=Api",
+            "host_url": "https://www.simplemost.com/black-bear-found-sleeping-in-montana-familys-closet/american-black-bear-ursus-americanus/"
+        }
+    }
+}
   ```
   
 </details>
